@@ -32,6 +32,13 @@ $navbar-default-bg: #0000FF;
   font-weight: bold;
   
 }
+.article-action{
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+.description {
+  margin-top:0;
+}
 footer {
   margin-top: 50px;
   padding-top: 10px;
@@ -56,3 +63,4 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
